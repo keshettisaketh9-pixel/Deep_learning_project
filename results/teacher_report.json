@@ -1,0 +1,14 @@
+{
+ "bioclip_pv_test_acc": 0.9772329246935202,
+ "bioclip_pv_test_f1": 0.9736242640099025,
+ "dino_pv_test_acc": 0.9879909932449337,
+ "dino_pv_test_f1": 0.9835295056992821,
+ "both_pv_test_acc": 0.9904928696522391,
+ "both_pv_test_f1": 0.9877135669859832,
+ "bioclip_plantdoc_acc": 0.556633048875097,
+ "bioclip_plantdoc_f1": 0.49689933562675276,
+ "dino_plantdoc_acc": 0.4643134212567882,
+ "dino_plantdoc_f1": 0.39898736538774876,
+ "both_plantdoc_acc": 0.5329712955779674,
+ "both_plantdoc_f1": 0.47205332053584853
+}
